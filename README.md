@@ -29,6 +29,7 @@ Complete calculator suites covering multiple project types.
 - [Calculator.net](https://www.calculator.net/construction-calculator.html) - General-purpose calculators with a construction section.
 - [Omni Calculator](https://www.omnicalculator.com/construction) - Science-based calculators including construction and engineering tools.
 - [Inch Calculator](https://www.inchcalculator.com) - Construction and home improvement calculators with detailed methodology.
+- [House Build Cost Calculator](https://housebuildcostcalculator.com/) - Free house building cost calculators including total build cost, concrete slab, lumber, and raw material estimators with cost-per-square-foot breakdowns by location and finish level.
 
 ## Concrete & Masonry
 
